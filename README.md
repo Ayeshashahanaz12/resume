@@ -6,8 +6,8 @@
 <body>
 
     <h1>Ayesha shahanaz</h1>
-    <p>Email: ayesha912052.com</p>
-    <p>Phone: +91-6305353105</p>
+    <p>Email: ska912052.com</p>
+    <p>Phone: +91-9502057697</p>
     <p>Address: india</p>
     <hr>
 
@@ -18,12 +18,7 @@
 
     <h2>Education</h2>
     <table border="1" cellpadding="5">
-        <tr>
-            <th>Degree</th>
-            <th>vishnu degree college</th>
-            <th>Year</th>
-            <th>85</th>
-        </tr>
+        
         <tr>
             <td>B.Tech</td>
             <td>vignan university</td>
@@ -32,13 +27,13 @@
         </tr>
         <tr>
             <td>Intermediate</td>
-            <td>ABC Junior College</td>
+            <td>Viveka College</td>
             <td>2019</td>
             <td>90%</td>
         </tr>
         <tr>
             <td>SSC</td>
-            <td>LMN High School</td>
+            <td>St Ann's School</td>
             <td>2017</td>
             <td>92%</td>
         </tr>
